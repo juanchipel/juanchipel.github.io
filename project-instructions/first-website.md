@@ -8,7 +8,7 @@
   - [The Big 3](#the-big-3-html-css-and-javascript)
 - [Lesson Steps](#lesson-steps)
   - [Work Flow](#work-flow-how-to-navigate-through-the-lesson-steps)
-  - [TODO 0 : Preview Your Site](#todo-0-preview-your-site-with-live-server)
+  - [TODO 0 : Preview Your Site][def]
   - [TODO 1: Update index.html](#todo-1-add-a-title-in-indexhtml)
   - [TODO 2: Create Sections for the Menu and Main Content](#todo-2-create-sections-for-the-menu-and-main-content)
   - [TODO 3: Create Structure for Content](#todo-3-create-structure-for-your-content)
@@ -952,3 +952,6 @@ After completing this TODO, your `<nav>` section should look like this:
 <br>
 
 ### 🎉🎉🎉 Congratulations! You are LIVE ON THE INTERNET! 🎉🎉🎉
+
+
+[def]: #todo-0-preview-your-site-with-live-server
